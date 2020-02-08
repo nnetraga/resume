@@ -1,0 +1,101 @@
+{
+  "main": {
+    "address": {
+      "street": "655 S Fair Oaks",
+      "city": "Sunnyvale",
+      "state": "CA",
+      "zip": "94086"
+    },
+    "bio": "I recently received my undergraduate degree in Computer Science(Software Engineering) at Arizona State University. I have collaborated with global and local teams and have experience in Software Development, data analytics, data science, requirements gathering, process designing. I am also familiar with Agile methodology and have gained proficiency in the various phases of SDLC - from planning to change management activities.",
+    "description": "Looking for full-time opportunities",
+    "email": "nikhilnetraganti@gmail.com",
+    "image": "profilepic.png",
+    "name": "Nikhil Netraganti",
+    "occupation": "New Grad",
+    "phone": "972-740-9551",
+    "resumedownload": "",
+    "social": [
+      
+     
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/nikhil-netraganti/",
+        "className": "fa fa-linkedin"
+      }
+      
+    ],
+    "website": "http://www.timbakerdev.com"
+  },
+  "resume": {
+    "skillmessage": "Experienced in in Java, JavaScript, C++, C#, CSS/HTML, Mobile and Web App Development, Swift, Data Analytics, Data Visualization Tools, SQL, R and Python ",
+    "education": [
+      {
+        "school": "Arizona State University",
+        "degree": "Bachelor of Science - Computer Science",
+        "graduated": "December 2019",
+        "description": "Dean's List - Spring 2019"
+      }
+    ],
+    "work": [
+      {
+        "company": "ASU School of Urban Planning",
+        "title": "Data Analyst",
+        "years": " June 2019 - December 2019",
+        "description": "Created and maintained the department website and data repository using AWS and React. Peformed analysis and visualization for extremely large data-sets from our partners to combat resillience issues such as Homelessness and Urban Heat"
+      },
+      {
+        "company": "Apposite Learning Services",
+        "title": "Technical Analyst",
+        "years": "October 2018 - December 2010",
+        "description": "\tCreated and managed user stories and acceptance criteria for the development of a large-scale enhancement to a Medicaid system, resolving any bottlenecks and challenges and ensuring delivery according to schedule"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Java",
+        "level": "80%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "70%"
+      },
+      {
+        "name": "CSS",
+        "level": "50%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "MYSQL",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title": "Naval Rescue21 Marine WIdget",
+        "category": "Worked with General Dynamics Missions Systems to build an application using exploratory interface (JC2CUI), also built CMAPI SaaS widgets on C# and .NET and automated testing using Selenium",
+        "image": "canadian-wanderlust.jpg"
+       
+      },
+      {
+        "title":"DiaTrack",
+        "category":"(offline now) ",
+        "image":"",
+        "url":"http://www.timbakerdev.com"
+      }
+    ]
+  }
+
+}
